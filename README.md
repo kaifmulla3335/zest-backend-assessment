@@ -1,6 +1,3 @@
-Samajh gaya — usi stylish format (badges, emojis, sections) me, lekin content sirf humare **Product Management API** assignment ka. Yeh raha:
-
-```markdown
 # 📦 Product Management API — Zest India Backend Assignment
 
 <p align="center">
@@ -52,9 +49,7 @@ A RESTful **Product Management API** built with **Spring Boot**, featuring full 
 
 ## 🏗️ Architecture
 
-```
 Controller → Service → Repository → Database
-```
 
 Clean layered architecture with DTOs decoupling API contracts from entity models, centralized exception handling via `@RestControllerAdvice`, and stateless JWT authentication via a custom `OncePerRequestFilter`.
 
@@ -245,4 +240,3 @@ Authorization: Bearer <token>
 ## 📄 License
 
 Built as part of the **Zest India Java Backend Developer Assignment** by [Mohammadkaif Mulla](https://github.com/kaifmulla3335)
-```
